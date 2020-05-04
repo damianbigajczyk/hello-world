@@ -1,2 +1,4 @@
 # hello-world
-Start working with git and github
+
+Hi everyone!
+I've just started working with git and github.
